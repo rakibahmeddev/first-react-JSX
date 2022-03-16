@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.product {
+  background-color: lightgoldenrodyellow;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  margin: 30px;
+  padding: 15px 30px;
+}
+.product .price {
+  color: coral;
+  font-size: 24px;
+  font-weight: bold;
+}
